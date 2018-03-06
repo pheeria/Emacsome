@@ -1,9 +1,7 @@
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
-Emacsome
+mouseless
 ========
 
-Yet another chrome ext for simulate emacs keys
+Chrome extension to simulate emacs keys
 
 ##Default keys:
 ###  Move
@@ -32,7 +30,3 @@ Yet another chrome ext for simulate emacs keys
 * `C-x C-f`: show links to open link in new tab
 * `C-x C-v`: show links to open link in current tab
 * `Number Enter`: go to that link
-
-
-## Install
-[https://chrome.google.com/webstore/detail/lacfhpppojhdlhojhcmcpbbijpcpjfja](https://chrome.google.com/webstore/detail/lacfhpppojhdlhojhcmcpbbijpcpjfja)
